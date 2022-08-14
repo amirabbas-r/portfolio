@@ -27,8 +27,6 @@
             imJs.contactForm();
             imJs.wowActive();
             imJs.awsActivation();
-            // imJs.demoActive();
-            // imJs.activePopupDemo();
             
         },
 
