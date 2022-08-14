@@ -17929,6 +17929,9 @@ body.white-version {
 .white-version .popup-mobile-menu .inner .content .social-share-style-1 .social-share li a svg {
   color: var(--color-primary);
 }
+.white-version .popup-mobile-menu .inner .content .social-share-style-1 .social-share li a:hover svg {
+  color: var(--color-white);
+}
 .white-version a.video-play-button span {
   border-left: 27px solid rgba(44, 42, 43, 0.8078431373);
   border-top: 17px solid transparent;
